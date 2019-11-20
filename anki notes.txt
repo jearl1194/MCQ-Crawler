@@ -1,0 +1,22 @@
+C:\Users\11th Dimension\AppData\Roaming\Anki2\John Earl Calicdan\collection.media
+<img src="myimage.jpg">
+<br>
+
+tags;question;answer;source
+
+url = https://www.examveda.com/electrical-engineering/practice-mcq-question-on-transformers/?section=1&page=10
+
+
+id = str
+question = str
+image = str
+choices = {str: str}
+answer = str
+
+solution = str
+tags = list
+url = str
+title = str
+section = int
+page = int
+number = 0

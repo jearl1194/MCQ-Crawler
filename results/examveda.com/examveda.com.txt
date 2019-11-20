@@ -1,0 +1,98 @@
+A.C. Fundamentals, Circuits and Circuit Theory
+Circuit Theorems in AC Analysis
+Electrical Machine Design
+Polyphase Induction Motors
+Single Phase Induction Motors
+Synchronous Motors
+Three Phase Systems in Power Applications
+Transformers
+##################################################
+Analog Electronics
+Automatic Control Systems
+Communication Systems
+Digital Electronics
+Electromagnetic Field Theory
+##################################################
+Electromagnetic Induction
+Electronic Devices and Circuits
+Materials and Components
+Measurement and Instrumentation
+Microprocessors
+##################################################
+Microwave Communication
+Networks Analysis and Synthesis
+Power Electronics
+Radio Receivers
+Satellite Communication
+##################################################
+*A.C Fundamentals, Circuits and Circuit Theory
+RL Circuits
+RC Circuits
+RLC Circuits and Resonance
+Circuit Theorems and Conversions
+##################################################
+*Circuit Theorems in Ac Analysis
+Integrated Circuits
+Magnetic Circuit
+Parallel Circuits
+Series Circuits
+##################################################
+Series Parallel Circuits
+Solid State Switching Circuits
+Time Response of Reactive Circuits
+Branch, Loop and Node Analyses
+Electrical Engineering Materials
+##################################################
+#Electronics & Instrumentation
+*Electrical Machine Design
+D.C. Generators
+D.C. Motors
+Capacitors
+##################################################
+Current Electricity
+Earthing or Grounding
+Electric Traction
+Electrical Cables
+Electrical Control Systems
+##################################################
+Electrical Inductors
+Electrolysis and Storage of Batteries
+Electrostatics
+Switchgear Protections
+*Synchronous Motors
+##################################################
+*Polyphase Induction Motors
+*Single Phase Induction Motors
+Energy and Power
+Economics of Power Generation
+Power Plant Engineering in EE
+##################################################
+Regulated DC Power Supply
+FET (Field Effect Transistors)
+Heating and Welding
+Hybrid Parameters
+Industrial Drivers
+##################################################
+Rectifiers and Converters
+Magnetism and Electromagnetism
+Modulation and Demodulation
+Ohms Law
+Transistors
+##################################################
+OP amp
+Single Stage Transistor Amplifiers
+Multistage Transistor Amplifiers
+Transistor Audio Power Amplifiers
+Amplifiers with Negative Feedback
+##################################################
+Passive Filters
+Oscillators
+Voltage, Current and Resistance
+Alternating Current and Voltage
+Semiconductor Theory
+##################################################
+Semiconductor Diode
+Silicon Controlled Rectifiers
+*Three Phase Systems In Power Applications
+*Transformers
+Transmission and Distribution
